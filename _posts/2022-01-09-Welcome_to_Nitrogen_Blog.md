@@ -1,8 +1,8 @@
 --------
 layout: post
-title: Welcome To Nitrogen Blog!
+title: Welcome to Nitrogen Blog
 published: true
 tags: blog
 --------
 
-As you can see, we now have a blog! Here I will post news for Nitrogen and for anything related to Nitrogen.
+Welcome to the Nitrogen Blog! Here I will post updates related to Nitrogen.
