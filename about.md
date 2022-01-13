@@ -9,4 +9,4 @@ This blog is made specifically for news relating to Nitrogen, Elements and much 
 
 ### Contact me
 
-[email@domain.com](mailto:teknei@pm.me)
+[teknei@pm.me](mailto:teknei@pm.me)
